@@ -16,18 +16,26 @@ The objective of Part 1 in the Cybersecurity Home Lab is to design and implement
 
 ## Steps
 
-### Installing VirtualBox
+### Downloading VirtualBox and Visual Studio
 Download VirtualBox and VirtualBox Extension Pack.
 
 ![image](https://github.com/user-attachments/assets/aa76e46e-8df0-4830-bc51-660ec871197c)
 
 After downloading VirtualBox, close the installer and download VC++ 2019 Redistributable.
 
-
 ![image](https://github.com/user-attachments/assets/877d528c-dcc5-4d15-be97-d3cb44272a48)
 
+### Installing Visual Studio
+The download will give us an .exe file. Double-click on it to launch the installer.
 
-![image](https://github.com/user-attachments/assets/e97d80a5-77b3-4120-baa9-bf1073188847)
+![image](https://github.com/user-attachments/assets/a1b08877-7533-4829-8cdf-aaa1d212e787)
+
+Accept the agreement and click on Install.
+
+![image](https://github.com/user-attachments/assets/28c7c8f0-ea7e-4661-af9a-be2f15378486)
+
+
+
 
 
 
