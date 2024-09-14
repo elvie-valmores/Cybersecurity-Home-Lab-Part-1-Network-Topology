@@ -10,7 +10,8 @@ The objective of Part 1 in the Cybersecurity Home Lab is to design and implement
 - **Malware Analysis Lab** (Windows & Linux): A separate environment for analyzing malware without risking the rest of the network.
 - **Security VMs** (DFIR & SIEM): Dedicated virtual machines for Digital Forensics and Incident Response (DFIR) and Security Information and Event Management (SIEM).
 - **Cyber Range** (Vulnerable VMs for CTF practice): Vulnerable virtual machines designed for Capture The Flag (CTF) practice and testing.
-![image](https://github.com/user-attachments/assets/2779be1b-1bad-4da8-b600-11446dece02c)
+
+![image](https://github.com/user-attachments/assets/b209063b-f198-4095-b795-90747eb26962)
 
 
 ## Steps
